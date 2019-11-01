@@ -1,0 +1,14 @@
+/Users/daniel/Projects/csharp/FortesApi/bin/Debug/netcoreapp2.2/FortesApi.deps.json
+/Users/daniel/Projects/csharp/FortesApi/bin/Debug/netcoreapp2.2/FortesApi.runtimeconfig.json
+/Users/daniel/Projects/csharp/FortesApi/bin/Debug/netcoreapp2.2/FortesApi.runtimeconfig.dev.json
+/Users/daniel/Projects/csharp/FortesApi/bin/Debug/netcoreapp2.2/FortesApi.dll
+/Users/daniel/Projects/csharp/FortesApi/bin/Debug/netcoreapp2.2/FortesApi.pdb
+/Users/daniel/Projects/csharp/FortesApi/obj/Debug/netcoreapp2.2/FortesApi.csprojAssemblyReference.cache
+/Users/daniel/Projects/csharp/FortesApi/obj/Debug/netcoreapp2.2/FortesApi.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/csharp/FortesApi/obj/Debug/netcoreapp2.2/FortesApi.RazorAssemblyInfo.cache
+/Users/daniel/Projects/csharp/FortesApi/obj/Debug/netcoreapp2.2/FortesApi.RazorAssemblyInfo.cs
+/Users/daniel/Projects/csharp/FortesApi/obj/Debug/netcoreapp2.2/FortesApi.AssemblyInfoInputs.cache
+/Users/daniel/Projects/csharp/FortesApi/obj/Debug/netcoreapp2.2/FortesApi.AssemblyInfo.cs
+/Users/daniel/Projects/csharp/FortesApi/obj/Debug/netcoreapp2.2/FortesApi.RazorTargetAssemblyInfo.cache
+/Users/daniel/Projects/csharp/FortesApi/obj/Debug/netcoreapp2.2/FortesApi.dll
+/Users/daniel/Projects/csharp/FortesApi/obj/Debug/netcoreapp2.2/FortesApi.pdb
